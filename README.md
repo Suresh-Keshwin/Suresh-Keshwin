@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Suresh-Keshwin](https://github.com/Suresh-Keshwin)
 
-- 📝 I regularly write articles on [Currently learning — planning to start soon](Currently learning — planning to start soon)
+- 📝 I regularly write articles on [Currently learning — planning to start soon]
 
 - 💬 Ask me about **Basic programming concepts, university life, and learning tips**
 
